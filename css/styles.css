@@ -7,9 +7,8 @@ body {
 }
 
 .sidebar {
-  float: left;
+  flex-direction: left;
   max-width: 300px;
-  padding-right: 30px;
   border: 3px dashed black;
 }
 
